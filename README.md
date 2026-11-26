@@ -27,7 +27,7 @@ Potential applications include humanitarian logistics, disaster response, rural 
 
 ## Publication and rights
 
-This dated statement introduces the research direction for scholarly discussion. A detailed technical specification and experimental methodology will be developed separately. The [Positive Forward](https://github.com/om-design/PositiveForward) research initiative addresses reliable understanding across diverse intelligence systems and is distinct from Jitterbug itself.
+This dated statement introduces the research direction for scholarly discussion. The [independent specification](SPECIFICATION.md) establishes the two-state reference architecture, and the [proposed research plan](RESEARCH_PLAN.md) outlines its scientific evaluation. Neither constitutes a validated implementation or a report of experimental results. The [Positive Forward](https://github.com/om-design/PositiveForward) research initiative addresses reliable understanding across diverse intelligence systems and is distinct from Jitterbug itself.
 
 Copyright © 2026 omdesign. All rights reserved.
 
