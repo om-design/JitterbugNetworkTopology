@@ -2,7 +2,7 @@
 
 **A strategy for sparse network resiliency**
 
-Originator: Om Design  
+Originator: omdesign  
 Foundational statement: 26 November 2026
 
 ## Concept
@@ -29,6 +29,6 @@ Potential applications include humanitarian logistics, disaster response, rural 
 
 This dated statement introduces the research direction for scholarly discussion. A detailed technical specification and experimental methodology will be developed separately. The [Positive Forward](https://github.com/om-design/PositiveForward) research initiative addresses reliable understanding across diverse intelligence systems and is distinct from Jitterbug itself.
 
-Copyright © 2026 Om Design. All rights reserved.
+Copyright © 2026 omdesign. All rights reserved.
 
 See [LICENSE](LICENSE) for the reservation of rights and attribution policy.
